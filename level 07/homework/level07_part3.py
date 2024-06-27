@@ -1,0 +1,11 @@
+name = input("enter your name >>>")
+surname = input("enter your surname >>>")
+age = input("enter your age >>>")
+country = input("enter your country >>>")
+city = input("enter your city >>>") 
+favourite_color = input("enter your favourite color >>>")
+favourite_car = input("enter your favourite car >>>")
+favourite_food = input("enter your favourite food >>>")
+favourite_sport = input("enter your favourite sport >>>")
+
+print(f"my name is {name}, my surname is {surname}, my age is {age}, i am from {country}, my city is {city}, my favourite color is {favourite_color}, my favourite car is {favourite_car}, my favourite food is {favourite_food}, my favourite sport is {favourite_sport}")
